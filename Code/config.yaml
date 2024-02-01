@@ -1,0 +1,7 @@
+path: D:/ConferenceCV # root dir
+train: images/train
+val: images/train
+
+# Classes
+names:
+  0: tank Leopard 2
